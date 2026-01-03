@@ -8,3 +8,22 @@ Application for investment training and virtual portfolio creation
 https://t.me/+If_HBos_VKUyMTRi
 
 открою при подаче заявки!
+
+Доступ открыт к тестированию макета в Фигме:
+https://www.figma.com/proto/jMZW6TqtWdGHTCxC1iAYoI/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-IOS?node-id=175-6075&p=f&t=7Q32CA5tAQZgu3ES-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=175%3A6075&show-proto-sidebar=1
+
+также в рассмотренно отдельно 6 сценариев:
+
+Сценарий 1: Просмотр видеоуроков для обучения инвестициям
+
+Сценарий 2: Поиск цены на интересующую акцию
+
+Сценарий 3: Добавление акции в портфель (покупка)
+
+Сценарий 4: Продажа акции из портфеля
+
+Сценарий 5: Просмотр истории продаж и покупок
+
+Сценарий 6: Смена фотографии профиля
+
+
